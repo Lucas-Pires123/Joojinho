@@ -1,0 +1,7 @@
+1  [X]fazer o chao
+1.5[X]criador de aleatoriedade
+2  [ ]fazer a criatura (manipular atributos html com js)
+2.5[ ]e a fazer andar
+3  [ ]desenvolver herbivoros
+4  [ ]selecao natural (criar mutacao)
+5  [ ]desenvolver carnivoros

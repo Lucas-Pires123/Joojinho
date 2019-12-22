@@ -1,0 +1,21 @@
+#controls{
+    position: fixed;
+    background-color: orangered;
+    width: 97%;
+    vertical-align: middle;
+    padding: 15px;
+    border-radius: 6pt;
+}
+.separamento{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#campo{
+    float: left;
+    margin-top: 55px;
+}
+.blocks{
+    height: 10px;
+    width: 10px;
+    background-color: greenyellow;
+}
